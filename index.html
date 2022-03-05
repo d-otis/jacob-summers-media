@@ -89,7 +89,13 @@
       <!-- Contact Row START -->
       <div class="row mt-4">
         <div class="col">
-          <a href="mailto:summersjacobr@gmail.com" target="_blank">
+          <a 
+            href="mailto:summersjacobrATgmailDOTcom" 
+            target="_blank"
+            onclick="this.href=this.href
+            .replace(/AT/,'&#64;')
+            .replace(/DOT/,'&#46;')"
+          >
             <img src="./public/images/Website_contact.png" alt="Contact graphic." class="w-100">
           </a>
         </div>
