@@ -1,5 +1,7 @@
 # jacob-summers-media
 
+Reel website for Jacob Summers. Located online @ http://www.jacobsummers.media
+
 ## Features
 
 - valid HTML
