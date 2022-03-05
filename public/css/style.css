@@ -1,3 +1,9 @@
-/* body {
-  background: url("/public/images/showreel_website_banner.png") no-repeat;
-} */
+#foley-link {
+  color: white;
+  transition-duration: 1000ms;
+  transition-property: color;
+}
+
+#foley-link:hover {
+  color: #ef30fe;
+}
