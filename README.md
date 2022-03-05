@@ -7,3 +7,4 @@
 - Google Analytics
 - bespoke video embed if necessary
 - email mailto: link
+- SEO?
